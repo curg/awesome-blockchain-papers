@@ -1,3 +1,5 @@
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 # Awesome Blockchain Papers
 
 | :pushpin: Topic | :book: Post | :paperclip: Paper |
