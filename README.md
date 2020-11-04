@@ -1,7 +1,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Awesome Blockchain Papers
-This is a curated list of good Blockchain research papers.
+This is a curated list of awesome Blockchain research papers.
 
 | :pushpin: Topic | :book: Post | :paperclip: Paper |
 |---|---|---|
